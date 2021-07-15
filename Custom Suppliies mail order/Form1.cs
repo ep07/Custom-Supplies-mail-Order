@@ -47,7 +47,7 @@ namespace Custom_Suppliies_mail_order
         {
             label2.Show();
             label3.Show();
-            label5.Text = "Michelle Rigner";
+            label5.Text = "Michelle Riggner";
             label5.Refresh();
             label4.Text = "500-2222";
             label4.Refresh();
