@@ -1,0 +1,10 @@
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\bin\Debug\Custom Suppliies mail order.exe.config
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\bin\Debug\Custom Suppliies mail order.exe
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\bin\Debug\Custom Suppliies mail order.pdb
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\obj\Debug\Custom Suppliies mail order.csproj.AssemblyReference.cache
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\obj\Debug\Custom_Suppliies_mail_order.Form1.resources
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\obj\Debug\Custom_Suppliies_mail_order.Properties.Resources.resources
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\obj\Debug\Custom Suppliies mail order.csproj.GenerateResource.cache
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\obj\Debug\Custom Suppliies mail order.csproj.CoreCompileInputs.cache
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\obj\Debug\Custom Suppliies mail order.exe
+C:\Users\Faique\source\repos\Custom Suppliies mail order\Custom Suppliies mail order\obj\Debug\Custom Suppliies mail order.pdb
